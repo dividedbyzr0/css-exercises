@@ -1,0 +1,9 @@
+/* styles.css */
+/* External file for css declaring all <div> elements to given attributes */
+div {
+    color: red;
+    background-color: gray;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
